@@ -1,116 +1,82 @@
-<!-- Profile README • Dark neon aesthetic inspired by the provided mockup -->
+<!-- Profile README • Dark dashboard style inspired by the sample image -->
 
 <div align="center">
 
-![Cyber Banner](https://images.unsplash.com/photo-1504607798333-52a30db54a5c?auto=format&fit=crop&w=1600&q=80)
+### 👋 Hey Everyone, I'm **Zeeshan Siddique**
 
-### 👋 Namaste, I'm **Zeeshan Siddique** (he/him)
-`Phantom programmer | Full‑Stack (MERN / Next.js) | AI + Automation enthusiast`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=45FF45&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Universe!;Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+Kotlin+Learner;Crafting+clean+APIs+and+delightful+UX;Open+to+collaboration+%26+freelance+projects" alt="Typing SVG" />
 
-<a href="https://komarev.com/ghpvc/?username=ZeeshanMalik1">
-  <img src="https://komarev.com/ghpvc/?username=ZeeshanMalik1&style=for-the-badge&color=0f9d58" alt="Profile views" />
-</a>
-<a href="https://github.com/ZeeshanMalik1?tab=followers">
-  <img src="https://img.shields.io/github/followers/ZeeshanMalik1?label=Followers&style=for-the-badge&color=1da1f2" alt="Followers" />
-</a>
-<a href="https://github.com/ZeeshanMalik1">
-  <img src="https://img.shields.io/github/stars/ZeeshanMalik1?affiliations=OWNER&style=for-the-badge&color=8e44ad" alt="Stars" />
-</a>
+</div>
 
+---
+
+<div align="center">
+
+🎯 Building products that help people every day.  
+📚 Focused on learning and improving.  
+🧰 Enjoy working across a variety of projects.  
+🤝 Open to collaboration.  
+📱 Offering services for Android & web apps.
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Email-mzeeshanmalik130%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/xeeshansiddique57/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zeeshan-siddique-aa800939b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/xeeshansiddique57"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://wa.me/923090236185"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
+
+---
+
+### 📊 GitHub Overview
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanMalik1&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&title_color=45ff45&icon_color=45ff45" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ZeeshanMalik1&theme=react&background=0d1117&hide_border=true&ring=45ff45&currStreakLabel=45ff45" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMalik1&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=45ff45" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanMalik1&bg_color=0d1117&color=45ff45&line=45ff45&point=45ff45&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,prisma,git,github,docker,linux,figma,postman,kotlin,androidstudio&theme=dark" />
 </div>
 
 ---
 
 ### 🧭 About Me
-- 20-year-old Pakistani developer crafting performant web apps with MERN/Next.js.
-- Freelance full-stack dev focused on clean APIs, observability, and automation.
-- Exploring ML + data pipelines to ship smarter features.
-- Languages: Urdu, English. Available for freelance (always-on support 24/7).
+- 📍 Sargodha, Pakistan
+- 20 y/o · Pakistani · Urdu & English
+- Freelance availability: **Yes** (24/7 support ethos)
+- MERN / Next.js developer exploring Kotlin & Android
+- Always improving: system design, MLOps, and automation
 
-**Quick stats:** `08+` months experience · `12` projects · `99%` client satisfaction
+---
 
-### 📇 Contact
-- 📍 Sargodha, Pakistan  
-- 📞 +92 309 0236185  
-- ✉️ mzeeshanmalik130@gmail.com
-
+### 🏆 Trophies
 <div align="center">
-  <a href="https://github.com/ZeeshanMalik1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zeeshan-siddique-aa800939b/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/xeeshansiddique57/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/923090236185"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.facebook.com/xeeshansiddique57"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZeeshanMalik1&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
 
-### 📊 GitHub Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanMalik1&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ZeeshanMalik1&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMalik1&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
----
-
-### 🛠️ Tech & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,prisma,docker,linux,git,github,figma,postman&theme=dark" />
-</div>
-
-### 📈 Skill Levels
-| Skill | Strength |
-| --- | --- |
-| HTML5 | ▰▰▰▰▰ ▰▰▰▰▰ 95% |
-| Tailwind CSS | ▰▰▰▰▰ ▰▰▰▰▰ 95% |
-| React | ▰▰▰▰▰ ▰▰▰▰ 90% |
-| JavaScript | ▰▰▰▰▰ ▰▰▰▰ 85% |
-| Next.js | ▰▰▰▰▰ ▰▰▰ 80% |
-| GitHub | ▰▰▰▰▰ ▰▰▰ 75% |
-| Express | ▰▰▰▰▰ ▰▰ 70% |
-| MongoDB | ▰▰▰▰▰ ▰▰ 65% |
-| Node.js | ▰▰▰▰▰ ▰▰ 65% |
-| Git | ▰▰▰▰▰ ▰▰ 65% |
-
----
-
-### 💼 Experience
-- **Full Stack Developer — Freelance (2024–Present)**  
-  Building high-performance MERN/Next.js apps for international clients with a focus on reliability and UX.
-- **Frontend Intern — Tech Solutions (2023–2024)**  
-  Crafted UI/UX components and optimized performance with React + Tailwind.
-
-### 🎓 Education
-- **BS Software Engineering — University of Sargodha (2026–Present)**  
-  Focus on software engineering foundations and modern web technologies.
-
----
-
-### 🔥 What I'm Doing Now
-- Shipping small, observable releases for web apps and APIs.
-- Experimenting with MLOps (data pipelines, model serving, monitoring).
-- Leveling up system design and cloud deployment practices.
-
-### ⚡ Highlighted Work Themes
-- Automation scripts & developer tooling.
-- Reusable service templates with baked-in logging/metrics.
-- ML-driven features that surface actionable insights from data.
-
----
-
-### ☕ Support My Work
-<div align="center">
-  <a href="https://www.buymeacoffee.com/zeeshanmalik">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" />
-  </a>
-</div>
+### 🔥 Current Focus
+- Shipping clean, observable APIs and delightful front-ends.
+- Building automation scripts and developer tooling.
+- Prototyping ML-assisted features for smarter products.
 
 ---
 
 <div align="center">
 
-![Retro Footer](https://i.imgur.com/jx17o9P.png)
+![Footer](https://i.imgur.com/jx17o9P.png)
 
-`Building clean systems, neon-lit nights, always learning.`
+`Code with intent. Learn relentlessly. Stay curious.`  
 
 </div>
