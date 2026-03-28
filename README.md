@@ -80,7 +80,7 @@ I'm available for freelance projects and exciting collaborations. If you have an
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mzeeshanmalik130@gmail.com)](mailto:mzeeshanmalik130@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeeshan-siddique-aa800939b/)](https://www.linkedin.com/in/zeeshan-siddique-aa800939b/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/923090236185)](https://wa.me/923090236185)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com) <!-- Add your portfolio URL here -->
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xeeshaan.netlify.app) <!-- Add your portfolio URL here -->
 </div>
 
 ---
